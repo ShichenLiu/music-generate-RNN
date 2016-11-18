@@ -1,0 +1,2 @@
+model_checkpoint_path: "lr_0.001_batch_50_sent_20_output_100_iter_20000_channels_2.ckpt"
+all_model_checkpoint_paths: "lr_0.001_batch_50_sent_20_output_100_iter_20000_channels_2.ckpt"
