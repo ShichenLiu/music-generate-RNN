@@ -39,3 +39,4 @@ Thumbs.db
 
 *.ckpt
 *.ckpt.meta
+*.wav
